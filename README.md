@@ -17,7 +17,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- [Live Site]()
+- [Live Site](https://rokandic.github.io/practice-FM-stats-preview-card/)
 
 ### Built with
 
